@@ -142,10 +142,6 @@ DCN / https://dentacoin.com/ / 1천억
 global dental industry
 Trusted Review Platform, Dental Assurance, Healthcare Database
 
-### Quantstamp
-QSP / https://quantstamp.com/ / 8백억
-smart contract health report
-
 ### MediBloc
 MED / https://medibloc.org/en/ / 5백억
 Healthcare Experience Reinvented

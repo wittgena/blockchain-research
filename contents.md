@@ -41,37 +41,10 @@ video games, activities, sports, education and conservation which you can then s
 AMP / https://www.synereo.com/ / 3백억
 monetization of original content posted anywhere on the net
 
-
---------------
-
 # Search
 
 ### Nebulas
 NAS / https://nebulas.io/ / 2천억
-
-------------
-
-# Game / Casino
-
-### FunFair
-FUN / https://funfair.io/ / 2천억
-BLOCKCHAIN SOLUTIONS FOR GAMING
-
-### Enjin Coin
-ENJ / https://enjincoin.io/ / 1천억
-virtual goods platform for gaming
-
-### GTC / https://game.com/ / 1천억
-creating a global gaming platform
-
-### GameCredits
-GAME / https://gamecredits.com/ / 8백억
-
-### Edgeless
-EDG / https://www.edgeless.io/ / 6백억
-Casino
-
-------------
 
 # Review
 
